@@ -1,0 +1,14 @@
+/home/data/Uni/SIT232/ontrack/1.1P/Microwave/bin/Debug/net9.0/Microwave
+/home/data/Uni/SIT232/ontrack/1.1P/Microwave/bin/Debug/net9.0/Microwave.deps.json
+/home/data/Uni/SIT232/ontrack/1.1P/Microwave/bin/Debug/net9.0/Microwave.runtimeconfig.json
+/home/data/Uni/SIT232/ontrack/1.1P/Microwave/bin/Debug/net9.0/Microwave.dll
+/home/data/Uni/SIT232/ontrack/1.1P/Microwave/bin/Debug/net9.0/Microwave.pdb
+/home/data/Uni/SIT232/ontrack/1.1P/Microwave/obj/Debug/net9.0/Microwave.GeneratedMSBuildEditorConfig.editorconfig
+/home/data/Uni/SIT232/ontrack/1.1P/Microwave/obj/Debug/net9.0/Microwave.AssemblyInfoInputs.cache
+/home/data/Uni/SIT232/ontrack/1.1P/Microwave/obj/Debug/net9.0/Microwave.AssemblyInfo.cs
+/home/data/Uni/SIT232/ontrack/1.1P/Microwave/obj/Debug/net9.0/Microwave.csproj.CoreCompileInputs.cache
+/home/data/Uni/SIT232/ontrack/1.1P/Microwave/obj/Debug/net9.0/Microwave.dll
+/home/data/Uni/SIT232/ontrack/1.1P/Microwave/obj/Debug/net9.0/refint/Microwave.dll
+/home/data/Uni/SIT232/ontrack/1.1P/Microwave/obj/Debug/net9.0/Microwave.pdb
+/home/data/Uni/SIT232/ontrack/1.1P/Microwave/obj/Debug/net9.0/Microwave.genruntimeconfig.cache
+/home/data/Uni/SIT232/ontrack/1.1P/Microwave/obj/Debug/net9.0/ref/Microwave.dll

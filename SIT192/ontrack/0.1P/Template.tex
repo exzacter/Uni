@@ -1,0 +1,302 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+%
+\documentclass[
+  12pt,
+  a4paper,
+]{scrartcl}
+\usepackage{amsmath,amssymb,mathtools}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+
+ % "delete" the `solution' environment:
+\let\solution\relax
+\let\endsolution\relax
+
+
+\usepackage[export]{adjustbox}
+\usepackage{tcolorbox}
+\usepackage[no-files]{xsim}
+\DeclareExerciseType{prompt}{
+exercise-env = prompt ,
+solution-env = answer ,
+exercise-name = \XSIMtranslate{question} ,
+exercises-name = \XSIMtranslate{questions} ,
+solution-name = answer ,
+solutions-name =answers ,
+exercise-template = green-box ,
+solution-template = default,
+exercise-heading = \subsection* ,
+solution-heading = \subsection*
+}
+
+\DeclareExerciseType{Question}{
+exercise-env = question ,
+solution-env = feedback ,
+exercise-name = \XSIMtranslate{question} ,
+exercises-name = \XSIMtranslate{questions} ,
+solution-name = answer ,
+solutions-name =answers ,
+exercise-template = default ,
+solution-template = grey-box,
+exercise-heading = \subsection* ,
+solution-heading = \subsection*
+}
+
+
+\xsimsetup{
+  exercise/template = red-box ,
+  answer/print = true,
+  feedback/print = false
+}
+
+
+\DeclareExerciseEnvironmentTemplate{green-box}
+  {%
+    \begin{tcolorbox}[arc=0mm,boxrule=1pt,colback=YellowGreen!5!white,colframe=YellowGreen,leftrule=3mm]
+      \includegraphics[width=3em,valign=c]{Exercise}%
+      \textbf{%
+          \XSIMmixedcase{\GetExerciseName}~\GetExerciseProperty{counter}%
+      }%
+      \GetExercisePropertyT{subtitle}{ \textit{#1}}%
+      \quad
+  }
+  {\end{tcolorbox}}
+
+\DeclareExerciseEnvironmentTemplate{grey-box}
+  {%
+    \begin{tcolorbox}[arc=0mm,boxrule=1pt,colback=black!5!white,colframe=black!70!white,leftrule=3mm]
+      \textbf{%
+          \XSIMmixedcase{\GetExerciseName}~\GetExerciseProperty{counter}%
+      }%
+      \GetExercisePropertyT{subtitle}{ \textit{#1}}%
+      \quad
+  }
+  {\end{tcolorbox}}
+
+\DeclareExerciseEnvironmentTemplate{red-box}
+  {%
+    \begin{tcolorbox}[arc=0mm,boxrule=1pt,colback=OrangeRed!5!white,colframe=OrangeRed,leftrule=3mm]
+      \includegraphics[width=3em,valign=c]{Exercise}%
+      \textbf{%
+          \XSIMmixedcase{\GetExerciseName}~\GetExerciseProperty{counter}%
+      }%
+      \GetExercisePropertyT{subtitle}{ \textit{#1}}%
+      \quad
+  }
+  {\end{tcolorbox}}
+
+%%% FONTS
+\usepackage{fontspec}
+\usepackage{unicode-math}
+\usepackage{fourier-otf}
+\defaultfontfeatures{Scale=MatchLowercase}
+\defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\makeatletter
+\@ifundefined{KOMAClassName}{}{
+\addtokomafont{title}{\color{deakinGreen}\normalfont}
+\addtokomafont{section}{\color{deakinGreen}\bfseries}
+\addtokomafont{subsection}{\color{deakinGreen}}
+\usepackage[sfdefault,lf]{carlito}
+}
+\makeatother
+
+
+
+  \setmainfont[]{Carlito}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage{nicefrac}
+\usepackage{xcolor}
+\definecolor{deakinBlue}{RGB}{88, 107, 216}
+\definecolor{deakinGreen}{RGB}{11, 113, 97}
+\usepackage{tikz}
+\usetikzlibrary{calc,shapes,decorations.text,fit,positioning,math,intersections,graphs,graphs.standard,graphdrawing}
+\usegdlibrary{trees,circular}
+\usepackage{pgfplots}
+\usepackage[lined]{algorithm2e}
+\usepackage{pgfplots}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Lesson Review: Module Summary},
+  pdflang={en-AU},
+  colorlinks=true,
+  linkcolor={Maroon},
+  filecolor={Maroon},
+  citecolor={Blue},
+  urlcolor={Blue},
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\ifLuaTeX
+\usepackage[bidi=basic]{babel}
+\else
+\usepackage[bidi=default]{babel}
+\fi
+\babelprovide[main,import]{australian}
+% get rid of language-specific shorthands (see #6817):
+\let\LanguageShortHands\languageshorthands
+\def\languageshorthands#1{}
+
+
+\usepackage{xstring}
+\usepackage{dsfont}
+\newcommand{\R}{\mathds{R}}
+\newcommand{\N}{\mathds{N}}
+\newcommand{\Z}{\mathds{Z}}
+\newcommand{\Q}{\mathds{Q}}
+\newcommand{\Comp}{\mathds{Comp}}
+\newcommand{\blue}[1]{ {\color{deakinBlue}{#1}}}
+\newcommand{\green}[1]{ {\color{deakinGreen}{#1}}}
+\newcommand{\red}[1]{ {\color{OrangeRed}{#1}}}
+\newcommand{\magenta}[1]{ {\color{RedViolet}{#1}}}
+\newcommand{\hide}[1]{\phantom{#1}}
+\newif\ifprintsol
+\IfSubStr*{\jobname}{Solution}{\printsoltrue}{\printsolfalse}
+
+\usepackage{tikz}
+\usepackage[normalem]{ulem}
+\usetikzlibrary{shapes.geometric,calc,decorations.pathreplacing,fit,patterns}
+
+%Temporarily, as there are issues with lualatex:
+\setmainfont[ItalicFont={Source Serif Pro Italic},BoldFont={Source Serif Pro Bold}]{Source Serif Pro}
+
+
+\definecolor{color1}{RGB}{186,233,255}
+\definecolor{color2}{RGB}{238,164,186}
+\definecolor{color3}{RGB}{232,199,255}
+\definecolor{color4}{RGB}{236,221,135}
+\definecolor{color5}{RGB}{157,238,154}
+\definecolor{color6}{RGB}{186,233,255}
+
+\usepackage{amsthm}
+\ifdefined\theorem\else\newtheorem{theorem}{\MakeUppercase theorem}\fi
+\ifdefined\proposition\else\newtheorem{proposition}{\MakeUppercase proposition}\fi
+\ifdefined\lemma\else\newtheorem{lemma}{\MakeUppercase lemma}\fi
+\ifdefined\remark\else\newtheorem{remark}{\MakeUppercase remark}\fi
+\ifdefined\definition\else\newtheorem{definition}{\MakeUppercase definition}\fi
+\ifdefined\proof\else\newtheorem{proof}{\MakeUppercase proof}\fi
+\ifdefined\example\else\newtheorem{example}{\MakeUppercase example}\fi
+\ifdefined\exercise\else\newtheorem{exercise}{\MakeUppercase exercise}\fi
+\ifdefined\solution\else\newtheorem{solution}{\MakeUppercase solution}\fi
+\ifdefined\prompt\else\newtheorem{prompt}{\MakeUppercase prompt}\fi
+\ifdefined\answer\else\newtheorem{answer}{\MakeUppercase answer}\fi
+\ifdefined\question\else\newtheorem{question}{\MakeUppercase question}\fi
+\ifdefined\feedback\else\newtheorem{feedback}{\MakeUppercase feedback}\fi
+\ifdefined\corollary\else\newtheorem{corollary}{\MakeUppercase corollary}\fi
+\ifdefined\note\else\newtheorem{note}{\MakeUppercase note}\fi
+\ifdefined\notes\else\newtheorem{notes}{\MakeUppercase notes}\fi
+\usepackage{tikz}\usepackage{pgfplots}
+\usepackage{xcolor}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\title{\fontsize{50pt}{60pt}\selectfont Lesson Review: Module Summary}
+\author{}
+\date{}
+
+\newcommand{\lcm}{\mbox{lcm}}
+
+\begin{document}
+\maketitle
+
+\section{Response to and Request for
+feedback}\label{response-to-and-request-for-feedback}
+
+\textbf{If you are resubmitting}, include a statement outlining the
+changes you have made to your submission. This section can be short but
+should be precise. It is a good idea to quote the feedback you are
+responding to.
+
+\textbf{If this is your first submission}, include a statement about
+what part of the lesson review you would most like to receive feedback
+(and why). Your tutor will take this in consideration when reviewing
+your work, although they may choose to give you feedback on a different
+thing if they think it's more appropriate.
+
+\section{Module Learning Objectives}\label{module-learning-objectives}
+
+I certify that I achieved the following learning objectives for the
+module (these objectives can be found in the introduction of the
+module):
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+\item
+\item
+\end{enumerate}
+
+\section{Summarising the content:}\label{summarising-the-content}
+
+\begin{itemize}
+\tightlist
+\item
+  Identify the key terms and concepts in the module. For each of these
+  terms and concepts:
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Define the term and explain the concept \textbf{in your own words}
+    (beware plagiarism -- this is an assessment task).
+  \item
+    Summarise the most important results related to these concepts,
+    including theorems and propositions, algorithms and procedures, etc.
+  \item
+    You can provide examples, figures, diagrams, but only if they help
+    illustrate your point. This is a summary, so it's best to restrict
+    the explanations to the main points.
+  \item
+    Make sure you include references to the Module Learning Objectives.
+  \end{itemize}
+\item
+  How is this useful? Relate the concepts you learnt in this module to
+  the broader context (other modules, other units within your degree,
+  and more generally)
+\end{itemize}
+
+\section{Reflecting on the content:}\label{reflecting-on-the-content}
+
+\begin{itemize}
+\tightlist
+\item
+  What is the most important thing you learnt in this module?
+\item
+  How does this relate to what you already know?
+\item
+  Why do you think your course team wants you to learn the content of
+  this module for your degree?
+\end{itemize}
+
+\end{document}

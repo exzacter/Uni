@@ -1,0 +1,14 @@
+/home/data/Uni/SIT232/HelloWorld/bin/Debug/net9.0/HelloWorld
+/home/data/Uni/SIT232/HelloWorld/bin/Debug/net9.0/HelloWorld.deps.json
+/home/data/Uni/SIT232/HelloWorld/bin/Debug/net9.0/HelloWorld.runtimeconfig.json
+/home/data/Uni/SIT232/HelloWorld/bin/Debug/net9.0/HelloWorld.dll
+/home/data/Uni/SIT232/HelloWorld/bin/Debug/net9.0/HelloWorld.pdb
+/home/data/Uni/SIT232/HelloWorld/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/data/Uni/SIT232/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/home/data/Uni/SIT232/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/home/data/Uni/SIT232/HelloWorld/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/data/Uni/SIT232/HelloWorld/obj/Debug/net9.0/HelloWorld.dll
+/home/data/Uni/SIT232/HelloWorld/obj/Debug/net9.0/refint/HelloWorld.dll
+/home/data/Uni/SIT232/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
+/home/data/Uni/SIT232/HelloWorld/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
+/home/data/Uni/SIT232/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll

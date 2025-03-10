@@ -1,0 +1,244 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Pandoc Filter
+BEGIN:VEVENT
+CATEGORIES: SIT192, distinction
+UID:20250315-distinction-Number_Theory
+DTSTAMP:20250219T000000
+DTSTART:20250315
+SUMMARY: SIT192 Recommended submission date for
+  Number Theory for distinction grade.
+DESCRIPTION: In order to stay on track to complete all distinction tasks,
+  it is recommended to submit the Number Theory
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, distinction
+UID:20250321-distinction-Propositions
+DTSTAMP:20250219T000000
+DTSTART:20250321
+SUMMARY: SIT192 Recommended submission date for
+  Propositions for distinction grade.
+DESCRIPTION: In order to stay on track to complete all distinction tasks,
+  it is recommended to submit the Propositions
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, distinction
+UID:20250327-distinction-Predicates
+DTSTAMP:20250219T000000
+DTSTART:20250327
+SUMMARY: SIT192 Recommended submission date for
+  Predicates for distinction grade.
+DESCRIPTION: In order to stay on track to complete all distinction tasks,
+  it is recommended to submit the Predicates
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, distinction
+UID:20250331-distinction-Sets_and_Functions
+DTSTAMP:20250219T000000
+DTSTART:20250331
+SUMMARY: SIT192 Recommended submission date for
+  Sets and Functions for distinction grade.
+DESCRIPTION: In order to stay on track to complete all distinction tasks,
+  it is recommended to submit the Sets and Functions
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, distinction
+UID:20250406-distinction-Graph_Theory
+DTSTAMP:20250219T000000
+DTSTART:20250406
+SUMMARY: SIT192 Recommended submission date for
+  Graph Theory for distinction grade.
+DESCRIPTION: In order to stay on track to complete all distinction tasks,
+  it is recommended to submit the Graph Theory
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, distinction
+UID:20250410-distinction-Proofs
+DTSTAMP:20250219T000000
+DTSTART:20250410
+SUMMARY: SIT192 Recommended submission date for
+  Proofs for distinction grade.
+DESCRIPTION: In order to stay on track to complete all distinction tasks,
+  it is recommended to submit the Proofs
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, distinction
+UID:20250416-distinction-Sequences_and_Recurrence
+DTSTAMP:20250219T000000
+DTSTART:20250416
+SUMMARY: SIT192 Recommended submission date for
+  Sequences and Recurrence for distinction grade.
+DESCRIPTION: In order to stay on track to complete all distinction tasks,
+  it is recommended to submit the Sequences and Recurrence
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, distinction
+UID:20250430-distinction-Counting
+DTSTAMP:20250219T000000
+DTSTART:20250430
+SUMMARY: SIT192 Recommended submission date for
+  Counting for distinction grade.
+DESCRIPTION: In order to stay on track to complete all distinction tasks,
+  it is recommended to submit the Counting
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, distinction
+UID:20250505-distinction-Advanced_Module_1
+DTSTAMP:20250219T000000
+DTSTART:20250505
+SUMMARY: SIT192 Recommended submission date for
+  Advanced Module 1 for distinction grade.
+DESCRIPTION: In order to stay on track to complete all distinction tasks,
+  it is recommended to submit the Advanced Module 1
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, distinction
+UID:20250518-distinction-Advanced_Module_2
+DTSTAMP:20250219T000000
+DTSTART:20250518
+SUMMARY: SIT192 Recommended submission date for
+  Advanced Module 2 for distinction grade.
+DESCRIPTION: In order to stay on track to complete all distinction tasks,
+  it is recommended to submit the Advanced Module 2
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, distinction
+UID:20250517-distinction-Advanced_Module_3
+DTSTAMP:20250219T000000
+DTSTART:20250517
+SUMMARY: SIT192 Recommended submission date for
+  Advanced Module 3 for distinction grade.
+DESCRIPTION: In order to stay on track to complete all distinction tasks,
+  it is recommended to submit the Advanced Module 3
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, distinction
+UID:20250523-distinction-Own_Topic
+DTSTAMP:20250219T000000
+DTSTART:20250523
+SUMMARY: SIT192 Recommended submission date for
+  Own Topic for distinction grade.
+DESCRIPTION: In order to stay on track to complete all distinction tasks,
+  it is recommended to submit the Own Topic
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, distinction
+UID:20250406-distinction-Activity_1_Summary
+DTSTAMP:20250219T000000
+DTSTART:20250406
+SUMMARY: SIT192 Recommended submission date for
+  Activity 1 Summary for distinction grade.
+DESCRIPTION: In order to stay on track to complete all distinction tasks,
+  it is recommended to submit the Activity 1 Summary
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, distinction
+UID:20250419-distinction-Activity_2_Summary
+DTSTAMP:20250219T000000
+DTSTART:20250419
+SUMMARY: SIT192 Recommended submission date for
+  Activity 2 Summary for distinction grade.
+DESCRIPTION: In order to stay on track to complete all distinction tasks,
+  it is recommended to submit the Activity 2 Summary
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, distinction
+UID:20250528-distinction-Activity_2_Summary
+DTSTAMP:20250219T000000
+DTSTART:20250528
+SUMMARY: SIT192 Recommended submission date for
+  Activity 2 Summary for distinction grade.
+DESCRIPTION: In order to stay on track to complete all distinction tasks,
+  it is recommended to submit the Activity 2 Summary
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+/home/data/Uni/SIT232/ontrack/1.1P/SwitchStatement/bin/Debug/net9.0/SwitchStatement
+/home/data/Uni/SIT232/ontrack/1.1P/SwitchStatement/bin/Debug/net9.0/SwitchStatement.deps.json
+/home/data/Uni/SIT232/ontrack/1.1P/SwitchStatement/bin/Debug/net9.0/SwitchStatement.runtimeconfig.json
+/home/data/Uni/SIT232/ontrack/1.1P/SwitchStatement/bin/Debug/net9.0/SwitchStatement.dll
+/home/data/Uni/SIT232/ontrack/1.1P/SwitchStatement/bin/Debug/net9.0/SwitchStatement.pdb
+/home/data/Uni/SIT232/ontrack/1.1P/SwitchStatement/obj/Debug/net9.0/SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+/home/data/Uni/SIT232/ontrack/1.1P/SwitchStatement/obj/Debug/net9.0/SwitchStatement.AssemblyInfoInputs.cache
+/home/data/Uni/SIT232/ontrack/1.1P/SwitchStatement/obj/Debug/net9.0/SwitchStatement.AssemblyInfo.cs
+/home/data/Uni/SIT232/ontrack/1.1P/SwitchStatement/obj/Debug/net9.0/SwitchStatement.csproj.CoreCompileInputs.cache
+/home/data/Uni/SIT232/ontrack/1.1P/SwitchStatement/obj/Debug/net9.0/SwitchStatement.dll
+/home/data/Uni/SIT232/ontrack/1.1P/SwitchStatement/obj/Debug/net9.0/refint/SwitchStatement.dll
+/home/data/Uni/SIT232/ontrack/1.1P/SwitchStatement/obj/Debug/net9.0/SwitchStatement.pdb
+/home/data/Uni/SIT232/ontrack/1.1P/SwitchStatement/obj/Debug/net9.0/SwitchStatement.genruntimeconfig.cache
+/home/data/Uni/SIT232/ontrack/1.1P/SwitchStatement/obj/Debug/net9.0/ref/SwitchStatement.dll

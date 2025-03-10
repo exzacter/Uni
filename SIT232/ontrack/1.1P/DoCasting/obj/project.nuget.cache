@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WnSBrA1aTAA=",
+  "success": true,
+  "projectFilePath": "/home/data/Uni/SIT232/ontrack/1.1P/DoCasting/DoCasting.csproj",
+  "expectedPackageFiles": [
+    "/home/ragnar/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.2/microsoft.aspnetcore.app.ref.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

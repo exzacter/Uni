@@ -1,0 +1,212 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Pandoc Filter
+BEGIN:VEVENT
+CATEGORIES: SIT192, credit
+UID:20250316-credit-Number_Theory
+DTSTAMP:20250219T000000
+DTSTART:20250316
+SUMMARY: SIT192 Recommended submission date for
+  Number Theory for credit grade.
+DESCRIPTION: In order to stay on track to complete all credit tasks,
+  it is recommended to submit the Number Theory
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, credit
+UID:20250323-credit-Propositions
+DTSTAMP:20250219T000000
+DTSTART:20250323
+SUMMARY: SIT192 Recommended submission date for
+  Propositions for credit grade.
+DESCRIPTION: In order to stay on track to complete all credit tasks,
+  it is recommended to submit the Propositions
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, credit
+UID:20250330-credit-Predicates
+DTSTAMP:20250219T000000
+DTSTART:20250330
+SUMMARY: SIT192 Recommended submission date for
+  Predicates for credit grade.
+DESCRIPTION: In order to stay on track to complete all credit tasks,
+  it is recommended to submit the Predicates
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, credit
+UID:20250405-credit-Sets_and_Functions
+DTSTAMP:20250219T000000
+DTSTART:20250405
+SUMMARY: SIT192 Recommended submission date for
+  Sets and Functions for credit grade.
+DESCRIPTION: In order to stay on track to complete all credit tasks,
+  it is recommended to submit the Sets and Functions
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, credit
+UID:20250410-credit-Graph_Theory
+DTSTAMP:20250219T000000
+DTSTART:20250410
+SUMMARY: SIT192 Recommended submission date for
+  Graph Theory for credit grade.
+DESCRIPTION: In order to stay on track to complete all credit tasks,
+  it is recommended to submit the Graph Theory
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, credit
+UID:20250417-credit-Proofs
+DTSTAMP:20250219T000000
+DTSTART:20250417
+SUMMARY: SIT192 Recommended submission date for
+  Proofs for credit grade.
+DESCRIPTION: In order to stay on track to complete all credit tasks,
+  it is recommended to submit the Proofs
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, credit
+UID:20250502-credit-Sequences_and_Recurrence
+DTSTAMP:20250219T000000
+DTSTART:20250502
+SUMMARY: SIT192 Recommended submission date for
+  Sequences and Recurrence for credit grade.
+DESCRIPTION: In order to stay on track to complete all credit tasks,
+  it is recommended to submit the Sequences and Recurrence
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, credit
+UID:20250509-credit-Counting
+DTSTAMP:20250219T000000
+DTSTART:20250509
+SUMMARY: SIT192 Recommended submission date for
+  Counting for credit grade.
+DESCRIPTION: In order to stay on track to complete all credit tasks,
+  it is recommended to submit the Counting
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, credit
+UID:20250516-credit-Advanced_Module_1
+DTSTAMP:20250219T000000
+DTSTART:20250516
+SUMMARY: SIT192 Recommended submission date for
+  Advanced Module 1 for credit grade.
+DESCRIPTION: In order to stay on track to complete all credit tasks,
+  it is recommended to submit the Advanced Module 1
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, credit
+UID:20250523-credit-Advanced_Module_2
+DTSTAMP:20250219T000000
+DTSTART:20250523
+SUMMARY: SIT192 Recommended submission date for
+  Advanced Module 2 for credit grade.
+DESCRIPTION: In order to stay on track to complete all credit tasks,
+  it is recommended to submit the Advanced Module 2
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, credit
+UID:20250406-credit-Activity_1_Summary
+DTSTAMP:20250219T000000
+DTSTART:20250406
+SUMMARY: SIT192 Recommended submission date for
+  Activity 1 Summary for credit grade.
+DESCRIPTION: In order to stay on track to complete all credit tasks,
+  it is recommended to submit the Activity 1 Summary
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, credit
+UID:20250419-credit-Activity_2_Summary
+DTSTAMP:20250219T000000
+DTSTART:20250419
+SUMMARY: SIT192 Recommended submission date for
+  Activity 2 Summary for credit grade.
+DESCRIPTION: In order to stay on track to complete all credit tasks,
+  it is recommended to submit the Activity 2 Summary
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES: SIT192, credit
+UID:20250528-credit-Activity_2_Summary
+DTSTAMP:20250219T000000
+DTSTART:20250528
+SUMMARY: SIT192 Recommended submission date for
+  Activity 2 Summary for credit grade.
+DESCRIPTION: In order to stay on track to complete all credit tasks,
+  it is recommended to submit the Activity 2 Summary
+  lesson review before that date.
+BEGIN:VALARM
+TRIGGER:-PT24H
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

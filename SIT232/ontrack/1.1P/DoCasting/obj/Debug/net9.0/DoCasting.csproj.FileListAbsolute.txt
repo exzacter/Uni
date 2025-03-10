@@ -1,0 +1,14 @@
+/home/data/Uni/SIT232/ontrack/1.1P/DoCasting/bin/Debug/net9.0/DoCasting
+/home/data/Uni/SIT232/ontrack/1.1P/DoCasting/bin/Debug/net9.0/DoCasting.deps.json
+/home/data/Uni/SIT232/ontrack/1.1P/DoCasting/bin/Debug/net9.0/DoCasting.runtimeconfig.json
+/home/data/Uni/SIT232/ontrack/1.1P/DoCasting/bin/Debug/net9.0/DoCasting.dll
+/home/data/Uni/SIT232/ontrack/1.1P/DoCasting/bin/Debug/net9.0/DoCasting.pdb
+/home/data/Uni/SIT232/ontrack/1.1P/DoCasting/obj/Debug/net9.0/DoCasting.GeneratedMSBuildEditorConfig.editorconfig
+/home/data/Uni/SIT232/ontrack/1.1P/DoCasting/obj/Debug/net9.0/DoCasting.AssemblyInfoInputs.cache
+/home/data/Uni/SIT232/ontrack/1.1P/DoCasting/obj/Debug/net9.0/DoCasting.AssemblyInfo.cs
+/home/data/Uni/SIT232/ontrack/1.1P/DoCasting/obj/Debug/net9.0/DoCasting.csproj.CoreCompileInputs.cache
+/home/data/Uni/SIT232/ontrack/1.1P/DoCasting/obj/Debug/net9.0/DoCasting.dll
+/home/data/Uni/SIT232/ontrack/1.1P/DoCasting/obj/Debug/net9.0/refint/DoCasting.dll
+/home/data/Uni/SIT232/ontrack/1.1P/DoCasting/obj/Debug/net9.0/DoCasting.pdb
+/home/data/Uni/SIT232/ontrack/1.1P/DoCasting/obj/Debug/net9.0/DoCasting.genruntimeconfig.cache
+/home/data/Uni/SIT232/ontrack/1.1P/DoCasting/obj/Debug/net9.0/ref/DoCasting.dll
